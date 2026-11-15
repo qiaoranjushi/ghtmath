@@ -24,6 +24,35 @@
 
 ---
 
+## 站点截图
+
+站内全部页面均为中英双语、明暗双主题。以下为整页截图，点击可查看原图（2880 px 宽，2× 像素密度）。
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="screenshots/01_portal_zh.png"><img src="screenshots/thumbs/01_portal_zh.jpg" width="330" alt="门户首页 中文"></a><br><sub><b>门户首页</b> · 中文</sub></td>
+    <td align="center" width="50%"><a href="screenshots/02_portal_en.png"><img src="screenshots/thumbs/02_portal_en.jpg" width="330" alt="Portal home EN"></a><br><sub><b>Portal Home</b> · English</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/03_prime-relations_zh.png"><img src="screenshots/thumbs/03_prime-relations_zh.jpg" width="330" alt="统一素数关系 中文"></a><br><sub>《统一素数关系理论》· 中文 · 浅色</sub></td>
+    <td align="center"><a href="screenshots/04_prime-relations_en.png"><img src="screenshots/thumbs/04_prime-relations_en.jpg" width="330" alt="Unified Prime Relations EN"></a><br><sub><i>Unified Prime Relations Theory</i> · EN · Light</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/05_riemann-hypothesis_zh.png"><img src="screenshots/thumbs/05_riemann-hypothesis_zh.jpg" width="330" alt="黎曼猜想 中文"></a><br><sub>《黎曼猜想》· 中文 · 浅色</sub></td>
+    <td align="center"><a href="screenshots/06_riemann-hypothesis_en.png"><img src="screenshots/thumbs/06_riemann-hypothesis_en.jpg" width="330" alt="Riemann Hypothesis EN"></a><br><sub><i>The Riemann Hypothesis</i> · EN · Light</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/07_prime-relations_dark_zh.png"><img src="screenshots/thumbs/07_prime-relations_dark_zh.jpg" width="330" alt="统一素数关系 中文 深色"></a><br><sub>《统一素数关系理论》· 中文 · 深色</sub></td>
+    <td align="center"><a href="screenshots/08_prime-relations_dark_en.png"><img src="screenshots/thumbs/08_prime-relations_dark_en.jpg" width="330" alt="Unified Prime Relations EN dark"></a><br><sub><i>Unified Prime Relations Theory</i> · EN · Dark</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/09_riemann-hypothesis_dark_zh.png"><img src="screenshots/thumbs/09_riemann-hypothesis_dark_zh.jpg" width="330" alt="黎曼猜想 中文 深色"></a><br><sub>《黎曼猜想》· 中文 · 深色</sub></td>
+    <td align="center"><a href="screenshots/10_riemann-hypothesis_dark_en.png"><img src="screenshots/thumbs/10_riemann-hypothesis_dark_en.jpg" width="330" alt="Riemann Hypothesis EN dark"></a><br><sub><i>The Riemann Hypothesis</i> · EN · Dark</sub></td>
+  </tr>
+</table>
+
+---
+
 ## 一、统一素数关系理论
 
 **Unified Prime Relations Theory**
@@ -89,6 +118,7 @@
 | `封面_*.png` | 四张封面展开图：封底 + 书脊 + 封面 |
 | `prime-relations/books/` | 统一素数关系理论 中英文 A4 全书 PDF |
 | `riemann-hypothesis/downloads/` | 黎曼猜想 中英文 A4 全书 PDF |
+| `screenshots/` | 站点整页截图 10 张（2880 px 宽），`thumbs/` 为 README 用缩略图 |
 | `index.html` / `404.html` | 旧地址跳转页 |
 
 ---
