@@ -339,6 +339,6 @@ Riemann Hypothesis; Riemann zeta function; critical line; multiplicative identit
 ### Links
 
 - Interactive site: <https://ghtmath.pages.dev/riemann-hypothesis/>
-- Full PDF: <riemann-hypothesis/downloads/Riemann_Hypothesis_EN_A4.pdf>
-- 中文版: <黎曼猜想：证明、谱与它的数学世界.md>
+- Full PDF: [Riemann_Hypothesis_EN_A4.pdf](<riemann-hypothesis/downloads/Riemann_Hypothesis_EN_A4.pdf>)
+- 中文版: [黎曼猜想：证明、谱与它的数学世界](<黎曼猜想：证明、谱与它的数学世界.md>)
 - Back to repository: <https://github.com/qiaoranjushi/ghtmath>

@@ -543,6 +543,6 @@ Unified Prime Relations Theory; fixed arithmetic identity spectrum; prime atoms;
 ### Links
 
 - Interactive site: <https://ghtmath.pages.dev/prime-relations/>
-- Full PDF: <prime-relations/books/Unified_Prime_Relations_Theory_EN_A4.pdf>
-- 中文版: <统一素数关系理论.md>
+- Full PDF: [Unified_Prime_Relations_Theory_EN_A4.pdf](<prime-relations/books/Unified_Prime_Relations_Theory_EN_A4.pdf>)
+- 中文版: [统一素数关系理论](<统一素数关系理论.md>)
 - Back to repository: <https://github.com/qiaoranjushi/ghtmath>
