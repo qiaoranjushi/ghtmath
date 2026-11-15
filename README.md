@@ -2,7 +2,7 @@
 
 # RenSpectrum · 双书门户
 
-**《统一素数关系理论》** · **《黎曼猜想：证明、谱与它的数学世界》**
+**《统一素数关系理论》** · **《黎曼猜想：证明、谱与它背后的数学世界》**
 
 中英文介绍 · 关键词 · 全书目录 · A4 排版全书 PDF
 
@@ -16,7 +16,7 @@
 
 - [关于本仓库](#关于本仓库)
 - [一、统一素数关系理论](#一统一素数关系理论) — [中文版](#中文版) · [English Edition](#english-edition)
-- [二、黎曼猜想：证明、谱与它的数学世界](#二黎曼猜想证明谱与它的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
+- [二、黎曼猜想：证明、谱与它背后的数学世界](#二黎曼猜想证明谱与它背后的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
 - [站点截图](#站点截图) — [中文版](#中文版-2) · [English Edition](#english-edition-2)
 - [文件说明](#文件说明)
 - [About](#about)
@@ -62,7 +62,7 @@
 
 ---
 
-## 二、黎曼猜想：证明、谱与它的数学世界
+## 二、黎曼猜想：证明、谱与它背后的数学世界
 
 **The Riemann Hypothesis: Proof, Spectra, and the Mathematical World Behind It**
 ——从乘法身份、广义黎曼猜想到 Hilbert–Pólya 与 GUE
@@ -73,7 +73,7 @@
 
 | | |
 |---|---|
-| **介绍 · 关键词 · 全书目录** | [黎曼猜想：证明、谱与它的数学世界.md](<黎曼猜想：证明、谱与它的数学世界.md>) |
+| **介绍 · 关键词 · 全书目录** | [黎曼猜想：证明、谱与它背后的数学世界.md](<黎曼猜想：证明、谱与它背后的数学世界.md>) |
 | **全书 PDF**（A4 排版，12.0 MB） | [黎曼猜想_中文版_A4排版.pdf](<riemann-hypothesis/downloads/黎曼猜想_中文版_A4排版.pdf>) |
 | **交互教学** | <https://ghtmath.pages.dev/riemann-hypothesis/?lang=zh> |
 
@@ -135,7 +135,7 @@
 |---|---|
 | `统一素数关系理论.md` | 中文版介绍、关键词、128 章全书目录 |
 | `Unified Prime Relations Theory.md` | English introduction, keywords, full 128-chapter contents |
-| `黎曼猜想：证明、谱与它的数学世界.md` | 中文版介绍、关键词、全书目录 |
+| `黎曼猜想：证明、谱与它背后的数学世界.md` | 中文版介绍、关键词、全书目录 |
 | `The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md` | English introduction, keywords, full contents |
 | `封面_*.png` | 四张封面展开图：封底 + 书脊 + 封面 |
 | `prime-relations/books/` | 统一素数关系理论 中英文 A4 全书 PDF |
