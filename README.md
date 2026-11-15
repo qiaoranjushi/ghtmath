@@ -24,46 +24,6 @@
 
 ---
 
-## 站点截图
-
-整页截图，2880 px 宽（2× 像素密度）。中文截图存于 [`screenshots/zh/`](screenshots/zh)，英文截图存于 [`screenshots/en/`](screenshots/en)，点击缩略图查看原图。
-
-### 中文版
-
-<table>
-  <tr>
-    <td align="center" width="50%"><a href="screenshots/zh/01_portal.png"><img src="screenshots/zh/thumbs/01_portal.jpg" width="330" alt="门户首页 中文"></a><br><sub><b>门户首页</b></sub></td>
-    <td align="center" width="50%"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="screenshots/zh/03_prime-relations.png"><img src="screenshots/zh/thumbs/03_prime-relations.jpg" width="330" alt="统一素数关系理论 浅色"></a><br><sub>《统一素数关系理论》· 浅色</sub></td>
-    <td align="center"><a href="screenshots/zh/07_prime-relations_dark.png"><img src="screenshots/zh/thumbs/07_prime-relations_dark.jpg" width="330" alt="统一素数关系理论 深色"></a><br><sub>《统一素数关系理论》· 深色</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="screenshots/zh/05_riemann-hypothesis.png"><img src="screenshots/zh/thumbs/05_riemann-hypothesis.jpg" width="330" alt="黎曼猜想 浅色"></a><br><sub>《黎曼猜想》· 浅色</sub></td>
-    <td align="center"><a href="screenshots/zh/09_riemann-hypothesis_dark.png"><img src="screenshots/zh/thumbs/09_riemann-hypothesis_dark.jpg" width="330" alt="黎曼猜想 深色"></a><br><sub>《黎曼猜想》· 深色</sub></td>
-  </tr>
-</table>
-
-### English Edition
-
-<table>
-  <tr>
-    <td align="center" width="50%"><a href="screenshots/en/02_portal.png"><img src="screenshots/en/thumbs/02_portal.jpg" width="330" alt="Portal home"></a><br><sub><b>Portal Home</b></sub></td>
-    <td align="center" width="50%"></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="screenshots/en/04_prime-relations.png"><img src="screenshots/en/thumbs/04_prime-relations.jpg" width="330" alt="Unified Prime Relations Theory light"></a><br><sub><i>Unified Prime Relations Theory</i> · Light</sub></td>
-    <td align="center"><a href="screenshots/en/08_prime-relations_dark.png"><img src="screenshots/en/thumbs/08_prime-relations_dark.jpg" width="330" alt="Unified Prime Relations Theory dark"></a><br><sub><i>Unified Prime Relations Theory</i> · Dark</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="screenshots/en/06_riemann-hypothesis.png"><img src="screenshots/en/thumbs/06_riemann-hypothesis.jpg" width="330" alt="The Riemann Hypothesis light"></a><br><sub><i>The Riemann Hypothesis</i> · Light</sub></td>
-    <td align="center"><a href="screenshots/en/10_riemann-hypothesis_dark.png"><img src="screenshots/en/thumbs/10_riemann-hypothesis_dark.jpg" width="330" alt="The Riemann Hypothesis dark"></a><br><sub><i>The Riemann Hypothesis</i> · Dark</sub></td>
-  </tr>
-</table>
-
----
-
 ## 一、统一素数关系理论
 
 **Unified Prime Relations Theory**
@@ -115,6 +75,46 @@
 | **Introduction · Keywords · Full Contents** | [The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md](<The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md>) |
 | **Full PDF**（A4, 15.0 MB） | [Riemann_Hypothesis_EN_A4.pdf](<riemann-hypothesis/downloads/Riemann_Hypothesis_EN_A4.pdf>) |
 | **Interactive site** | <https://ghtmath.pages.dev/riemann-hypothesis/?lang=en> |
+
+---
+
+## 站点截图
+
+整页截图，2880 px 宽（2× 像素密度）。中文截图存于 [`screenshots/zh/`](screenshots/zh)，英文截图存于 [`screenshots/en/`](screenshots/en)，点击缩略图查看原图。
+
+### 中文版
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="screenshots/zh/01_portal.png"><img src="screenshots/zh/thumbs/01_portal.jpg" width="330" alt="门户首页 中文"></a><br><sub><b>门户首页</b></sub></td>
+    <td align="center" width="50%"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/zh/03_prime-relations.png"><img src="screenshots/zh/thumbs/03_prime-relations.jpg" width="330" alt="统一素数关系理论 浅色"></a><br><sub>《统一素数关系理论》· 浅色</sub></td>
+    <td align="center"><a href="screenshots/zh/07_prime-relations_dark.png"><img src="screenshots/zh/thumbs/07_prime-relations_dark.jpg" width="330" alt="统一素数关系理论 深色"></a><br><sub>《统一素数关系理论》· 深色</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/zh/05_riemann-hypothesis.png"><img src="screenshots/zh/thumbs/05_riemann-hypothesis.jpg" width="330" alt="黎曼猜想 浅色"></a><br><sub>《黎曼猜想》· 浅色</sub></td>
+    <td align="center"><a href="screenshots/zh/09_riemann-hypothesis_dark.png"><img src="screenshots/zh/thumbs/09_riemann-hypothesis_dark.jpg" width="330" alt="黎曼猜想 深色"></a><br><sub>《黎曼猜想》· 深色</sub></td>
+  </tr>
+</table>
+
+### English Edition
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="screenshots/en/02_portal.png"><img src="screenshots/en/thumbs/02_portal.jpg" width="330" alt="Portal home"></a><br><sub><b>Portal Home</b></sub></td>
+    <td align="center" width="50%"></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/en/04_prime-relations.png"><img src="screenshots/en/thumbs/04_prime-relations.jpg" width="330" alt="Unified Prime Relations Theory light"></a><br><sub><i>Unified Prime Relations Theory</i> · Light</sub></td>
+    <td align="center"><a href="screenshots/en/08_prime-relations_dark.png"><img src="screenshots/en/thumbs/08_prime-relations_dark.jpg" width="330" alt="Unified Prime Relations Theory dark"></a><br><sub><i>Unified Prime Relations Theory</i> · Dark</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="screenshots/en/06_riemann-hypothesis.png"><img src="screenshots/en/thumbs/06_riemann-hypothesis.jpg" width="330" alt="The Riemann Hypothesis light"></a><br><sub><i>The Riemann Hypothesis</i> · Light</sub></td>
+    <td align="center"><a href="screenshots/en/10_riemann-hypothesis_dark.png"><img src="screenshots/en/thumbs/10_riemann-hypothesis_dark.jpg" width="330" alt="The Riemann Hypothesis dark"></a><br><sub><i>The Riemann Hypothesis</i> · Dark</sub></td>
+  </tr>
+</table>
 
 ---
 
