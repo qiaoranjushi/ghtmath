@@ -18,6 +18,7 @@
 - [一、统一素数关系理论](#一统一素数关系理论) — [中文版](#中文版) · [English Edition](#english-edition)
 - [二、黎曼猜想：证明、谱与它背后的数学世界](#二黎曼猜想证明谱与它背后的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
 - [站点截图](#站点截图) — [中文版](#中文版-2) · [English Edition](#english-edition-2)
+- [工作台截图](#工作台截图)
 - [文件说明](#文件说明)
 - [About](#about)
 
@@ -140,7 +141,7 @@
 | `封面_*.png` | 四张封面展开图：封底 + 书脊 + 封面 |
 | `prime-relations/books/` | 统一素数关系理论 中英文 A4 全书 PDF |
 | `riemann-hypothesis/downloads/` | 黎曼猜想 中英文 A4 全书 PDF |
-| `screenshots/zh/` · `screenshots/en/` | 站点整页截图，中英文各 5 张（2880 px 宽），各自 `thumbs/` 为 README 缩略图 |
+| `screenshots/zh/` · `screenshots/en/` | 站点与工作台整页截图，中英文各 6 张（2880 px 宽），各自 `thumbs/` 为 README 缩略图 |
 | `index.html` / `404.html` | 旧地址跳转页 |
 
 ---
@@ -153,6 +154,19 @@ This repository hosts the bilingual introductions, tables of contents, cover spr
 - *The Riemann Hypothesis: Proof, Spectra, and the Mathematical World Behind It* — from multiplicative identity and GRH to Hilbert–Pólya and GUE.
 
 The complete interactive edition — full text, figures, and guided classrooms in both Chinese and English — is published at **<https://ghtmath.pages.dev>**.
+
+---
+
+## 工作台截图
+
+RenSpectrum v3.4 专业工作台完整界面：身份与关系对象、参数与映射表、有限执行记录与 V0–V5 复现信息。整页截图，点击查看原图。
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="screenshots/zh/11_workbench_v3.4.png"><img src="screenshots/zh/thumbs/11_workbench_v3.4.jpg" width="330" alt="RenSpectrum v3.4 工作台 中文"></a><br><sub><b>RenSpectrum v3.4</b> · 中文</sub></td>
+    <td align="center" width="50%"><a href="screenshots/en/11_workbench_v3.4.png"><img src="screenshots/en/thumbs/11_workbench_v3.4.jpg" width="330" alt="RenSpectrum v3.4 workbench English"></a><br><sub><b>RenSpectrum v3.4</b> · English</sub></td>
+  </tr>
+</table>
 
 ---
 
