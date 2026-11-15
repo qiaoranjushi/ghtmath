@@ -14,16 +14,14 @@
 
 ## 目录
 
-- [关于本仓库](#sec-about)
-- [一、统一素数关系理论](#sec-uprt) — [中文版](#sec-uprt-zh) · [English Edition](#sec-uprt-en)
-- [二、黎曼猜想：证明、谱与它的数学世界](#sec-rh) — [中文版](#sec-rh-zh) · [English Edition](#sec-rh-en)
-- [站点截图](#sec-shots) — [中文版](#sec-shots-zh) · [English Edition](#sec-shots-en)
-- [文件说明](#sec-files)
-- [About](#sec-about-en)
+- [关于本仓库](#关于本仓库)
+- [一、统一素数关系理论](#一统一素数关系理论) — [中文版](#中文版) · [English Edition](#english-edition)
+- [二、黎曼猜想：证明、谱与它的数学世界](#二黎曼猜想证明谱与它的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
+- [站点截图](#站点截图) — [中文版](#中文版-2) · [English Edition](#english-edition-2)
+- [文件说明](#文件说明)
+- [About](#about)
 
 ---
-
-<a name="sec-about"></a>
 
 ## 关于本仓库
 
@@ -37,16 +35,12 @@
 
 ---
 
-<a name="sec-uprt"></a>
-
 ## 一、统一素数关系理论
 
 **Unified Prime Relations Theory**
 ——Goldbach、Twin 的证明与经典素数命题的共同母体
 
 <img src="封面_统一素数关系理论_中文.png" width="860" alt="统一素数关系理论：封底 · 书脊 · 封面（中文版）">
-
-<a name="sec-uprt-zh"></a>
 
 ### 中文版
 
@@ -55,8 +49,6 @@
 | **介绍 · 关键词 · 全书目录** | [统一素数关系理论.md](<统一素数关系理论.md>) |
 | **全书 PDF**（A4 排版，15.1 MB） | [统一素数关系理论_中文版_A4排版.pdf](<prime-relations/books/统一素数关系理论_中文版_A4排版.pdf>) |
 | **交互教学** | <https://ghtmath.pages.dev/prime-relations/?lang=zh> |
-
-<a name="sec-uprt-en"></a>
 
 ### English Edition
 
@@ -70,16 +62,12 @@
 
 ---
 
-<a name="sec-rh"></a>
-
 ## 二、黎曼猜想：证明、谱与它的数学世界
 
 **The Riemann Hypothesis: Proof, Spectra, and the Mathematical World Behind It**
 ——从乘法身份、广义黎曼猜想到 Hilbert–Pólya 与 GUE
 
 <img src="封面_黎曼猜想_中文.png" width="860" alt="黎曼猜想：封底 · 书脊 · 封面（中文版）">
-
-<a name="sec-rh-zh"></a>
 
 ### 中文版
 
@@ -88,8 +76,6 @@
 | **介绍 · 关键词 · 全书目录** | [黎曼猜想：证明、谱与它的数学世界.md](<黎曼猜想：证明、谱与它的数学世界.md>) |
 | **全书 PDF**（A4 排版，15.5 MB） | [黎曼猜想_中文版_A4排版.pdf](<riemann-hypothesis/downloads/黎曼猜想_中文版_A4排版.pdf>) |
 | **交互教学** | <https://ghtmath.pages.dev/riemann-hypothesis/?lang=zh> |
-
-<a name="sec-rh-en"></a>
 
 ### English Edition
 
@@ -103,13 +89,9 @@
 
 ---
 
-<a name="sec-shots"></a>
-
 ## 站点截图
 
 整页截图，2880 px 宽（2× 像素密度）。中文截图存于 [`screenshots/zh/`](screenshots/zh)，英文截图存于 [`screenshots/en/`](screenshots/en)，点击缩略图查看原图。
-
-<a name="sec-shots-zh"></a>
 
 ### 中文版
 
@@ -127,8 +109,6 @@
     <td align="center"><a href="screenshots/zh/09_riemann-hypothesis_dark.png"><img src="screenshots/zh/thumbs/09_riemann-hypothesis_dark.jpg" width="330" alt="黎曼猜想 深色"></a><br><sub>《黎曼猜想》· 深色</sub></td>
   </tr>
 </table>
-
-<a name="sec-shots-en"></a>
 
 ### English Edition
 
@@ -149,8 +129,6 @@
 
 ---
 
-<a name="sec-files"></a>
-
 ## 文件说明
 
 | 文件 | 内容 |
@@ -166,8 +144,6 @@
 | `index.html` / `404.html` | 旧地址跳转页 |
 
 ---
-
-<a name="sec-about-en"></a>
 
 ## About
 
