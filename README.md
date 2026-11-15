@@ -74,7 +74,7 @@
 | | |
 |---|---|
 | **介绍 · 关键词 · 全书目录** | [黎曼猜想：证明、谱与它的数学世界.md](<黎曼猜想：证明、谱与它的数学世界.md>) |
-| **全书 PDF**（A4 排版，15.5 MB） | [黎曼猜想_中文版_A4排版.pdf](<riemann-hypothesis/downloads/黎曼猜想_中文版_A4排版.pdf>) |
+| **全书 PDF**（A4 排版，12.0 MB） | [黎曼猜想_中文版_A4排版.pdf](<riemann-hypothesis/downloads/黎曼猜想_中文版_A4排版.pdf>) |
 | **交互教学** | <https://ghtmath.pages.dev/riemann-hypothesis/?lang=zh> |
 
 ### English Edition
@@ -84,7 +84,7 @@
 | | |
 |---|---|
 | **Introduction · Keywords · Full Contents** | [The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md](<The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md>) |
-| **Full PDF**（A4, 15.0 MB） | [Riemann_Hypothesis_EN_A4.pdf](<riemann-hypothesis/downloads/Riemann_Hypothesis_EN_A4.pdf>) |
+| **Full PDF**（A4, 11.7 MB） | [Riemann_Hypothesis_EN_A4.pdf](<riemann-hypothesis/downloads/Riemann_Hypothesis_EN_A4.pdf>) |
 | **Interactive site** | <https://ghtmath.pages.dev/riemann-hypothesis/?lang=en> |
 
 ---
