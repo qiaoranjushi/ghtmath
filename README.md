@@ -17,6 +17,7 @@
 - [关于本仓库](#关于本仓库)
 - [一、统一素数关系理论](#一统一素数关系理论) — [中文版](#中文版) · [English Edition](#english-edition)
 - [二、黎曼猜想：证明、谱与它背后的数学世界](#二黎曼猜想证明谱与它背后的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
+- [三、数学的地基](#三数学的地基) — GHT 论文 I · 中英文全文 PDF
 - [站点截图](#站点截图) — [中文版](#中文版-2) · [English Edition](#english-edition-2)
 - [工作台截图](#工作台截图)
 - [文件说明](#文件说明)
@@ -26,7 +27,7 @@
 
 ## 关于本仓库
 
-本仓库提供两部书稿的**中英文介绍与全书目录**，以及**全书 A4 排版 PDF** 的下载入口。
+本仓库提供两部书稿的**中英文介绍与全书目录**、**全书 A4 排版 PDF**，以及 GHT 数学地基系列论文 I 的**中英文全文 PDF**。
 
 完整的交互教学站点部署在 Cloudflare Pages：
 
@@ -90,6 +91,38 @@
 
 ---
 
+## 三、数学的地基
+
+**《数学的地基：GHT 生成履历理论概论》**
+
+*Foundations of Mathematics: An Introduction to Generative History Theory (GHT)*
+
+> From "This Sentence Has Ended," Traces, and Re-entry to Mathematical Primitives, Arithmetic, and a Common Generative Foundation for Modern Mathematics
+
+**作者**：任毅飞 · 独立研究者 ｜ **发布**：2026-10-26 ｜ **版本**：V1.0 ｜ **DOI**：[10.5281/zenodo.23662772](https://doi.org/10.5281/zenodo.23662772)
+
+GHT 数学地基系列论文 I —— 把数学地基的追问推进到既成数学对象之前。
+
+### 中文摘要
+
+任毅飞的生成履历理论(GHT)把数学地基的追问推进到既成数学对象之前:对象、关系、同一、比较、组合、不变量与尺度如何取得稳定的数学资格。本文以“这句话结束了”为最小边界展示,区分不可数学化的裸发生边界与可表达的第一影层;由可再寻址痕迹、再入与后续指向建立生成履历律 N → N+n 以及生成履历结构 GHS。本文系统提出区别、等价、对象、关系、组合、不变量、尺度七个数学原语,并发展对象—关系一体、Name–Relation 双性、身份—评价单向性、成熟显相、成熟在场、来源连续性、运算类型纪律与 P/H/D 账本。进一步给出自然数、加法、乘法、Prime 以及逻辑、集合论、代数、范畴、拓扑、分析、测度概率、几何、算子与谱论等成熟数学门派的地基接口。本文为 GHT 数学地基系列论文 I,并提供第二篇所调用的最小地基。
+
+### Abstract
+
+Generative History Theory (GHT) moves foundational inquiry one step upstream from already constituted mathematical objects and asks how objects, relations, identity, comparison, composition, invariance, and scale acquire stable mathematical admissibility. The paper uses “This sentence has ended” to distinguish the non-mathematizable boundary of bare occurrence from the expressible first shadow layer. Re-addressable trace and re-entry lead to the Generative History Law N → N+n and to the Generative History Structure (GHS).
+
+On this basis, the paper develops seven mathematical primitives—distinction, equivalence, object, relation, composition, invariant, and scale—together with object–relation unity, Name–Relation duality, the one-way identity-to-evaluation principle, mature manifestation, mature presence, provenance continuity, operation-type discipline, and a Preserved/Hidden/Destroyed (P/H/D) ledger. It then provides foundational interfaces for natural numbers, addition, multiplication, Prime, logic, set theory, algebra, category theory, topology, analysis, measure, probability, geometry, operator theory, and spectral theory. The paper serves as Paper I of the GHT Foundations of Mathematics Series and supplies the minimal foundational interfaces used by Paper II.
+
+### 下载
+
+| | |
+|---|---|
+| **中文版 PDF**（32 页，3.8 MB） | [01_数学的地基_GHT生成履历理论概论_CN.pdf](<GHT/01_数学的地基_GHT生成履历理论概论_CN.pdf>) |
+| **English PDF**（34 页，1.8 MB） | [01_Foundations_of_Mathematics_An_Introduction_to_GHT_EN.pdf](<GHT/01_Foundations_of_Mathematics_An_Introduction_to_GHT_EN.pdf>) |
+| **Zenodo 记录** | <https://doi.org/10.5281/zenodo.23662772> |
+
+---
+
 ## 站点截图
 
 整页截图，2880 px 宽（2× 像素密度）。中文截图存于 [`screenshots/zh/`](screenshots/zh)，英文截图存于 [`screenshots/en/`](screenshots/en)，点击缩略图查看原图。
@@ -139,6 +172,7 @@
 | `黎曼猜想：证明、谱与它背后的数学世界.md` | 中文版介绍、关键词、全书目录 |
 | `The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md` | English introduction, keywords, full contents |
 | `封面_*.png` | 四张封面展开图：封底 + 书脊 + 封面 |
+| `GHT/` | 《数学的地基：GHT 生成履历理论概论》中英文全文 PDF（论文 I） |
 | `prime-relations/books/` | 统一素数关系理论 中英文 A4 全书 PDF |
 | `riemann-hypothesis/downloads/` | 黎曼猜想 中英文 A4 全书 PDF |
 | `screenshots/zh/` · `screenshots/en/` | 站点与工作台整页截图，中英文各 6 张（2880 px 宽），各自 `thumbs/` 为 README 缩略图 |
