@@ -18,6 +18,7 @@
 - [一、统一素数关系理论](#一统一素数关系理论) — [中文版](#中文版) · [English Edition](#english-edition)
 - [二、黎曼猜想：证明、谱与它背后的数学世界](#二黎曼猜想证明谱与它背后的数学世界) — [中文版](#中文版-1) · [English Edition](#english-edition-1)
 - [三、数学的地基](#三数学的地基) — GHT 论文 I · 中英文全文 PDF
+- [四、证明债务的恢复](#四证明债务的恢复) — Alpöge–Claude 证明的信息层级审计
 - [站点截图](#站点截图) — [中文版](#中文版-2) · [English Edition](#english-edition-2)
 - [工作台截图](#工作台截图)
 - [文件说明](#文件说明)
@@ -123,6 +124,45 @@ On this basis, the paper develops seven mathematical primitives—distinction, e
 
 ---
 
+## 四、证明债务的恢复
+
+**《证明债务的恢复 —— Alpöge–Claude 黎曼猜想证明的信息层级审计》**
+
+*The Recovery of Proof Debt — An Information-Layer Audit of the Alpöge–Claude Proof of the Riemann Hypothesis*
+
+**作者**：任毅飞 · 独立研究者 ｜ **发布**：2026-11-23 ｜ **DOI**：[10.5281/zenodo.24458786](https://doi.org/10.5281/zenodo.24458786)
+**论文类型**：方法论与证明结构分析 · 25 页
+
+### 中文说明
+
+2026 年 11 月，Levent Alpöge 宣布与 Claude 合作获得黎曼猜想及 Dirichlet L-函数广义黎曼猜想的 Lean 形式化证明：约 17 百万行、175,187 个模块，截至 11 月 23 日已有多项独立构建、内核回放、声明比对与公理审计通过；与此同时，Michael Rubinstein 等正把这一工程还原为人类可读的解析数论证明。
+
+本文不重证该定理，也不评判其技术是否“多余”，而是提出另一种解读：这套极其庞大的证明，可以看作一次**证明债务的恢复过程**。所谓证明债务，是指一个原始结构被压缩为更晚、更可计算的表示之后，原本显式的身份、对偶、正性、尺度或局部—整体关系不再直接可见；要在压缩表示中重新获得这些性质，就必须引入额外的桥梁、估计、辅助对象与兼容性定理。
+
+文章逐层拆解 Alpöge–Claude 路线：从乘法—素数结构压缩到 von Mangoldt 平滑余项后，需要恢复无 floor 的可除性；从局部惰性素数恢复到全部素数，需要角色分解与 character 平均；从可除性恢复到全局上界，需要 lattice size、covolume、迹公式与 Galois 上同调；从函数域中天然的多重接触恢复到整数世界，需要一条长度约 √X 的 theta-lift 链。临界指数 1/2 最终作为两种恢复成本 x/m 与 m 的平衡点重新出现。
+
+文章进一步把这一结构与《黎曼猜想：证明、谱与它背后的数学世界》给出的两条独立路线——H01（互反身份与解析保真）与 H09（Hilbert–Pólya 源生成谱）——作比较，认为三者未必是“不同答案”，更可能位于同一信息链的不同层级。
+
+### English Description
+
+In November 2026, Levent Alpöge announced Lean formal proofs of the Riemann Hypothesis and of the Generalized Riemann Hypothesis for Dirichlet L-functions, obtained in collaboration with Claude: roughly 17 million lines across 175,187 modules, with independent builds, kernel replays, statement comparisons, and axiom audits passing by November 23. Michael Rubinstein and others are now translating that development into a human-readable analytic proof.
+
+This paper does not re-prove the theorem and does not dismiss its machinery as unnecessary. It proposes a reading: the enormous proof can be understood as a **process of recovering proof debt**. Proof debt arises when an original structure is compressed into a later, more computable representation, so that identity, duality, positivity, scale, or local–global relations that were explicit in the source are no longer directly visible; recovering them inside the compressed form requires additional bridges, estimates, auxiliary objects, and compatibility theorems.
+
+The paper reconstructs the Alpöge–Claude route layer by layer: recovering floor-free divisibility after compressing multiplicative/prime structure into a smoothed von Mangoldt remainder; recovering all-prime coverage through character decomposition and averaging; recovering a sharp global size bound through lattice size, covolume, trace formulas, and Galois cohomology; and simulating high-order contact in the integer setting by a theta-lift chain of length about √X. The critical exponent 1/2 then reappears as the balance point between two recovery costs, x/m and m.
+
+It further compares this architecture with the two independent RH routes of *The Riemann Hypothesis: Proof, Spectra, and the Mathematical World Behind It* — H01 (reciprocal identity and analytic fidelity) and H09 (source-generated Hilbert–Pólya spectrum) — arguing that the three are less likely rival answers than different layers of one information chain.
+
+### 下载
+
+| | |
+|---|---|
+| **中文版 PDF**（25 页，1.66 MB） | [Proof_Debt_Recovery_Alpoge_Claude_RH_CN_FINAL_2026-11-23.pdf](<Proof_Debt_Recovery_Alpoge_Claude_RH/Proof_Debt_Recovery_Alpoge_Claude_RH_CN_FINAL_2026-11-23.pdf>) |
+| **English PDF**（25 页，1.17 MB） | [Proof_Debt_Recovery_Alpoge_Claude_RH_EN_FINAL_2026-11-23.pdf](<Proof_Debt_Recovery_Alpoge_Claude_RH/Proof_Debt_Recovery_Alpoge_Claude_RH_EN_FINAL_2026-11-23.pdf>) |
+| **Zenodo 记录** | <https://doi.org/10.5281/zenodo.24458786> |
+
+---
+
 ## 站点截图
 
 整页截图，2880 px 宽（2× 像素密度）。中文截图存于 [`screenshots/zh/`](screenshots/zh)，英文截图存于 [`screenshots/en/`](screenshots/en)，点击缩略图查看原图。
@@ -173,6 +213,7 @@ On this basis, the paper develops seven mathematical primitives—distinction, e
 | `The Riemann Hypothesis - Proof, Spectra, and the Mathematical World Behind It.md` | English introduction, keywords, full contents |
 | `封面_*.png` | 四张封面展开图：封底 + 书脊 + 封面 |
 | `GHT/` | 《数学的地基：GHT 生成履历理论概论》中英文全文 PDF（论文 I） |
+| `Proof_Debt_Recovery_Alpoge_Claude_RH/` | 《证明债务的恢复》中英文 PDF（各 25 页） |
 | `prime-relations/books/` | 统一素数关系理论 中英文 A4 全书 PDF |
 | `riemann-hypothesis/downloads/` | 黎曼猜想 中英文 A4 全书 PDF |
 | `screenshots/zh/` · `screenshots/en/` | 站点与工作台整页截图，中英文各 6 张（2880 px 宽），各自 `thumbs/` 为 README 缩略图 |
