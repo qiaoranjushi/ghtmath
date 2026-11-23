@@ -157,7 +157,7 @@ It further compares this architecture with the two independent RH routes of *The
 
 | | |
 |---|---|
-| **中文版 PDF**（25 页，1.66 MB） | [Proof_Debt_Recovery_Alpoge_Claude_RH_CN_FINAL_2026-11-23.pdf](<Proof_Debt_Recovery_Alpoge_Claude_RH/Proof_Debt_Recovery_Alpoge_Claude_RH_CN_FINAL_2026-11-23.pdf>) |
+| **中文版 PDF**（25 页，1.66 MB） | [证明债务的恢复_Alpoge-Claude_RH证明的信息层级审计_FINAL_2026-11-23.pdf](<Proof_Debt_Recovery_Alpoge_Claude_RH/证明债务的恢复_Alpoge-Claude_RH证明的信息层级审计_FINAL_2026-11-23.pdf>) |
 | **English PDF**（25 页，1.17 MB） | [Proof_Debt_Recovery_Alpoge_Claude_RH_EN_FINAL_2026-11-23.pdf](<Proof_Debt_Recovery_Alpoge_Claude_RH/Proof_Debt_Recovery_Alpoge_Claude_RH_EN_FINAL_2026-11-23.pdf>) |
 | **Zenodo 记录** | <https://doi.org/10.5281/zenodo.24458786> |
 
